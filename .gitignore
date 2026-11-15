@@ -1,0 +1,5 @@
+# Antigravity Skills directory
+.agents/skills/
+
+# Build artifacts
+*.exe
